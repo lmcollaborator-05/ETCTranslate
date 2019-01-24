@@ -4,8 +4,8 @@
     "betted": "投注用户数"
     },
   "en": {
-    "promoted": "the number of promoters",
-    "betted": "the number of participants"
+    "promoted": "Promoted users",
+    "betted": "Betted users"
   },
   "ja": {
     "promoted": "専属ユーザー数",
@@ -16,12 +16,12 @@
     "betted": "베팅 회원수"
   },
   "ru": {
-    "promoted": "the number of promoters",
-    "betted": "the number of participants"
+    "promoted": "Promoted users",
+    "betted": "Betted users"
   },
   "vi": {
-    "promoted": "the number of promoters",
-    "betted": "the number of participants"
+    "promoted": "Promoted users",
+    "betted": "Betted users"
   },
   "zh-Hant": {
     "promoted": "推廣用戶數",
