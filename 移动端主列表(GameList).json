@@ -29,7 +29,7 @@
     "all": "All",
     "filter_text": "Filter by Games",
     "time_all": "Filter by Time",
-    "no_roll_data": "很抱歉，目前没有可投注的滚球玩法"
+    "no_roll_data": "No available in-play bet"
   },
   "ko": {
     "opending": "실시간",
@@ -45,7 +45,7 @@
     "all": "전부",
     "filter_text": "리그 선택",
     "time_all": "날짜 선택",
-    "no_roll_data": "很抱歉，目前没有可投注的滚球玩法"
+    "no_roll_data": "죄송합니다. 현재 베팅 가능한 유형이 없습니다."
   },
   "ja": {
     "opending": "即時",
@@ -61,7 +61,7 @@
     "all": "全部",
     "filter_text": "リーグ戦を篩に掛けます",
     "time_all": "時間を篩に掛けます",
-    "no_roll_data": "很抱歉，目前没有可投注的滚球玩法"
+    "no_roll_data": "申し訳ありませんが、現在賭けをできるインプレイベッティングはありません。"
   },
   "ru": {
     "opending": "Real-time",
@@ -109,6 +109,6 @@
     "all": "全部",
     "filter_text": "聯賽篩選",
     "time_all": "時間篩選",
-    "no_roll_data": "很抱歉，目前没有可投注的滚球玩法"
+    "no_roll_data": "很抱歉，目前沒有可投註的滾球玩法"
   }
 }
