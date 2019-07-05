@@ -148,7 +148,7 @@
     "socket_change": "The odds, handicap or validness of your selection(s) has changed.",
     "no_account": "I don’t have an account，",
     "to_register": "sign up now",
-    "live_tips": "滚球盘订单确认"
+    "live_tips": "Confirm in-play order"
   },
   "ja": {
     "bet_range_tz": "クイズ範囲:",
@@ -223,7 +223,7 @@
     "socket_change": "選択したクイズの損失率、動向や有効性は変化しました。",
     "no_account": "まだアカウントはありません，",
     "to_register": "直ぐに登録",
-    "live_tips": "滚球盘订单确认"
+    "live_tips": "インプレイベッティングのオーダーが要確認"
   },
   "ko": {
     "bet_range_tz": "베팅금액 범위:",
@@ -298,7 +298,7 @@
     "socket_change": "베팅하신 항목의 배당, 베팅 유형 혹은 유효 여부가 변경되었습니다.",
     "no_account": "아직 계정이 없으신가요?",
     "to_register": " 회원가입 하기",
-    "live_tips": "滚球盘订单确认"
+    "live_tips": "베팅 오더를 확인해주세요"
   },
   "ru": {
     "bet_range_tz": "投注范围:",
@@ -503,6 +503,6 @@
     "socket_change": "您所選投註的賠率、盤口有效性已產生變化。",
     "no_account": "我還沒有賬戶，",
     "to_register": "立即註冊",
-    "live_tips": "滚球盘订单确认"
+    "live_tips": "滾球盤訂單需確認"
   }
 }
