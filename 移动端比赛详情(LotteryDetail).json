@@ -162,7 +162,7 @@
     "reverse": "Inverse",
     "ok": "Confirm",
     "cancel": "Cancel",
-    "live": "滚球"
+    "live": "In-Play"
   },
   "ja": {
     "detal_header_in_prediction": "進行中",
@@ -243,7 +243,7 @@
     "reverse": "選択を解除",
     "ok": "確認",
     "cancel": "キャンセル",
-    "live": "滚球"
+    "live": "インプレイベッティング"
   },
   "ko": {
     "detal_header_in_prediction": "진행중",
@@ -324,7 +324,7 @@
     "reverse": "모두 취소",
     "ok": "확인",
     "cancel": "취소",
-    "live": "滚球"
+    "live": "실시간 게임"
   },
   "ru": {
     "detal_header_in_prediction": "В обработке",
@@ -543,6 +543,6 @@
     "reverse": "反選",
     "ok": "確認",
     "cancel": "取消",
-    "live": "滚球"
+    "live": "滾球"
   }
 }
